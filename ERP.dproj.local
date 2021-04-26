@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/02/07 14:13:36.000.643,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/07 21:58:04.000.734,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/11 21:50:51.000.197,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/25 14:26:13.000.762,=C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/04/25 14:28:21.000.042,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Usuario\Desktop\project mini ERP\ClientVCL\src\View\uMain.dfm</Transaction>
+    <Transaction>2021/04/25 14:28:21.000.042,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Usuario\Desktop\project mini ERP\ClientVCL\src\View\uMain.pas</Transaction>
+    <Transaction>2021/04/25 14:30:24.000.729,C:\Users\Usuario\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Usuario\Desktop\project mini ERP\ERP.dproj</Transaction>
+    <Transaction>2021/04/25 14:34:09.000.275,=C:\Users\Usuario\Desktop\project mini ERP\Unit1.pas</Transaction>
+    <Transaction>2021/04/25 14:36:00.000.155,C:\Users\Usuario\Desktop\project mini ERP\Unit1.pas=C:\Users\Usuario\Desktop\project mini ERP\ClientVCL\src\View\Styles\ERP.View.Styles.Colors.pas</Transaction>
+    <Transaction>2021/04/25 15:36:21.000.865,=C:\Users\Usuario\Desktop\project mini ERP\Unit1.pas</Transaction>
+    <Transaction>2021/04/25 15:37:30.000.265,C:\Users\Usuario\Desktop\project mini ERP\ClientVCL\src\View\Pages\ERP.View.Pages.Principal.dfm=C:\Users\Usuario\Desktop\project mini ERP\Unit1.dfm</Transaction>
+    <Transaction>2021/04/25 15:37:30.000.265,C:\Users\Usuario\Desktop\project mini ERP\ClientVCL\src\View\Pages\ERP.View.Pages.Principal.pas=C:\Users\Usuario\Desktop\project mini ERP\Unit1.pas</Transaction>
+    <Transaction>2021/04/25 15:41:06.000.255,=C:\Users\Usuario\Desktop\project mini ERP\Unit1.pas</Transaction>
+    <Transaction>2021/04/25 15:41:32.000.422,C:\Users\Usuario\Desktop\project mini ERP\ClientVCL\src\View\Pages\ERP.View.Pages.Usuarios.dfm=C:\Users\Usuario\Desktop\project mini ERP\Unit1.dfm</Transaction>
+    <Transaction>2021/04/25 15:41:32.000.422,C:\Users\Usuario\Desktop\project mini ERP\ClientVCL\src\View\Pages\ERP.View.Pages.Usuarios.pas=C:\Users\Usuario\Desktop\project mini ERP\Unit1.pas</Transaction>
+    <Transaction>2021/04/25 15:50:51.000.770,=C:\Users\Usuario\Desktop\project mini ERP\Unit1.pas</Transaction>
+    <Transaction>2021/04/25 15:52:22.000.510,C:\Users\Usuario\Desktop\project mini ERP\ClientVCL\src\View\Routers\ERP.View.Routers.pas=C:\Users\Usuario\Desktop\project mini ERP\Unit1.pas</Transaction>
+    <Transaction>2021/04/25 16:29:54.000.476,C:\Users\Usuario\Desktop\project mini ERP\ClientVCL\src\View\Pages\ERP.View.Pages.Usuarios.pas=</Transaction>
+    <Transaction>2021/04/25 16:35:54.000.330,=C:\Users\Usuario\Desktop\project mini ERP\Unit1.pas</Transaction>
+    <Transaction>2021/04/25 16:36:47.000.375,C:\Users\Usuario\Desktop\project mini ERP\ClientVCL\src\View\Pages\ERP.View.Pages.Form.dfm=C:\Users\Usuario\Desktop\project mini ERP\Unit1.dfm</Transaction>
+    <Transaction>2021/04/25 16:36:47.000.375,C:\Users\Usuario\Desktop\project mini ERP\ClientVCL\src\View\Pages\ERP.View.Pages.Form.pas=C:\Users\Usuario\Desktop\project mini ERP\Unit1.pas</Transaction>
+    <Transaction>2021/04/25 16:40:28.000.575,C:\Users\Usuario\Desktop\project mini ERP\ClientVCL\src\View\Pages\ERP.View.Pages.Form.Template=C:\Users\Usuario\Desktop\project mini ERP\ClientVCL\src\View\Pages\ERP.View.Pages.Form.Template</Transaction>
+    <Transaction>2021/04/25 16:41:33.000.810,C:\Users\Usuario\Desktop\project mini ERP\ClientVCL\src\View\Pages\ERP.View.Pages.Form.pas=</Transaction>
+    <Transaction>2021/04/25 16:41:47.000.008,=C:\Users\Usuario\Desktop\project mini ERP\Unit1.pas</Transaction>
+    <Transaction>2021/04/25 16:42:23.000.600,C:\Users\Usuario\Desktop\project mini ERP\Unit1.dfm=C:\Users\Usuario\Desktop\project mini ERP\ClientVCL\src\View\ERP.View.Pages.Form.dfm</Transaction>
+    <Transaction>2021/04/25 16:42:23.000.600,C:\Users\Usuario\Desktop\project mini ERP\Unit1.pas=C:\Users\Usuario\Desktop\project mini ERP\ClientVCL\src\View\ERP.View.Pages.Form.pas</Transaction>
+    <Transaction>2021/04/25 16:42:31.000.748,C:\Users\Usuario\Desktop\project mini ERP\ClientVCL\src\View\ERP.View.Pages.Form.pas=</Transaction>
+    <Transaction>2021/04/25 16:42:40.000.111,=C:\Users\Usuario\Desktop\project mini ERP\Unit1.pas</Transaction>
+    <Transaction>2021/04/25 16:42:52.000.263,C:\Users\Usuario\Desktop\project mini ERP\Unit1.dfm=C:\Users\Usuario\Desktop\project mini ERP\ClientVCL\src\View\Pages\ERP.View.Pages.Form.dfm</Transaction>
+    <Transaction>2021/04/25 16:42:52.000.263,C:\Users\Usuario\Desktop\project mini ERP\Unit1.pas=C:\Users\Usuario\Desktop\project mini ERP\ClientVCL\src\View\Pages\ERP.View.Pages.Form.pas</Transaction>
+    <Transaction>2021/04/25 16:44:41.000.834,C:\Users\Usuario\Desktop\project mini ERP\ClientVCL\src\View\Pages\ERP.View.Pages.Form.pas=C:\Users\Usuario\Desktop\project mini ERP\ClientVCL\src\View\Pages\ERP.View.Pages.Form.Template.pas</Transaction>
+    <Transaction>2021/04/25 16:44:41.000.834,C:\Users\Usuario\Desktop\project mini ERP\ClientVCL\src\View\Pages\ERP.View.Pages.Form.dfm=C:\Users\Usuario\Desktop\project mini ERP\ClientVCL\src\View\Pages\ERP.View.Pages.Form.Template.dfm</Transaction>
+    <Transaction>2021/04/25 19:10:31.000.189,=C:\Users\Usuario\Desktop\project mini ERP\Unit1.pas</Transaction>
+    <Transaction>2021/04/25 19:11:12.000.407,C:\Users\Usuario\Desktop\project mini ERP\Unit1.pas=C:\Users\Usuario\Desktop\project mini ERP\ClientVCL\src\View\Pages\ERP.View.Pages.Form.Usuarios.pas</Transaction>
+    <Transaction>2021/04/25 19:11:12.000.407,C:\Users\Usuario\Desktop\project mini ERP\Unit1.dfm=C:\Users\Usuario\Desktop\project mini ERP\ClientVCL\src\View\Pages\ERP.View.Pages.Form.Usuarios.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,49 @@
+object PagePrincipal: TPagePrincipal
+  Left = 0
+  Top = 0
+  Align = alClient
+  BorderStyle = bsNone
+  Caption = 'PagePrincipal'
+  ClientHeight = 338
+  ClientWidth = 651
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object pnlPPrincipal: TPanel
+    Left = 0
+    Top = 0
+    Width = 651
+    Height = 338
+    Align = alClient
+    BevelOuter = bvNone
+    Padding.Top = 25
+    ParentBackground = False
+    TabOrder = 0
+    ExplicitLeft = 232
+    ExplicitTop = 152
+    ExplicitWidth = 185
+    ExplicitHeight = 41
+    object Label1: TLabel
+      Left = 0
+      Top = 25
+      Width = 651
+      Height = 35
+      Align = alTop
+      Alignment = taCenter
+      Caption = 'Pagina Principal'
+      Font.Charset = DEFAULT_CHARSET
+      Font.Color = clWindowText
+      Font.Height = -29
+      Font.Name = 'Tahoma'
+      Font.Style = []
+      ParentFont = False
+      ExplicitWidth = 201
+    end
+  end
+end
